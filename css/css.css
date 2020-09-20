@@ -1,0 +1,75 @@
+* {
+margin: 0;
+padding: 0;    
+    
+}
+.botom{
+display: block;
+margin: auto;
+width: 100px;    
+font-family: sans-serif;
+    
+background: linear-gradient(to bottom, #cc0066 0%, #800000 100%);  
+color: white;
+text-decoration: none;
+font-size: 6px;      
+padding: 10px 30px 10px 30px;
+border-radius: 100px;      
+}
+.Circulo{
+ width: 23px;
+margin-top: -20px;
+margin-right: 100px;    
+float: right;  
+}
+h1 {
+margin-left: 8px;    
+}
+    
+.botom2{
+display: block;
+margin: auto;
+width: 100px;    
+font-family: sans-serif;
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(141,59,217,1) 0%, rgba(252,0,255,1) 100%);
+  
+color: white;
+text-decoration: none;
+font-size: 9px;      
+padding: 10px 30px 10px 30px;
+border-radius: 100px;
+margin-top: 20px;    
+}
+.Hogar{
+ width: 23px;
+margin-top: -20px;
+margin-right: 100px;    
+float: right;  
+}
+h2 {
+margin-left: 8px;    
+}
+
+.botom3{
+display: block;
+margin: auto;
+width: 100px;    
+font-family: sans-serif;
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(109,175,235,1) 0%, rgba(73,237,164,1) 100%);
+  
+color: white;
+text-decoration: none;
+font-size: 11px;    
+padding: 10px 30px 10px 30px;
+border-radius: 100px;
+margin-top: 20px;    
+}
+.Settings{
+ width: 23px;
+margin-top: -20px;
+margin-right: 100px;    
+float: right;
+}
+h3 {
+margin-left: 8px;    
+}
